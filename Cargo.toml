@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "02_gcd",
+  "02_iron_gcd"
+
+]
